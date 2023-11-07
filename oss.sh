@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "hello"
-echo User Name: $(whoami)
-echo Student Number: 00000000
+echo User Name: Lee Jin Woo
+echo Student Number: 12172097
 echo [ MENU ]
 echo 1. Get the data of the movie identified by a specific \'movie id\' from \'u.item\'
 echo 2. Get the data of action genre movies from \'u.item\'
